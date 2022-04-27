@@ -1,0 +1,100 @@
+Topic 1 Top Words:
+    Highest Prob: staff, attent, friend, help, food, excel, waiter 
+    FREX: attent, polit, help, effici, extrem, staff, profession 
+    Lift: departur, knowledg, detail, polit, effici, troubl, courteous 
+    Score: staff, attent, departur, help, polit, friend, effici 
+Topic 2 Top Words:
+    Highest Prob: steak, cook, disappoint, perfect, hous, expect, chip 
+    FREX: steak, rare, medium, fillet, cook, tough, rump 
+    Lift: surcharg, medium, rare, sirloin, chewi, tripl, cut 
+    Score: steak, surcharg, cook, chip, rump, medium, fillet 
+Topic 3 Top Words:
+    Highest Prob: starter, main, dessert, beef, salad, chicken, cours 
+    FREX: soup, chicken, pate, starter, sticki, toffe, pud 
+    Lift: salti, liver, parfait, goat, beetroot, asparagus, mackerel 
+    Score: starter, salti, main, soup, chicken, pud, beef 
+Topic 4 Top Words:
+    Highest Prob: side, extra, pay, order, expens, charg, wine 
+    FREX: charg, bill, extra, pay, side, expens, cost 
+    Lift: broccoli, mislead, charg, tip, bill, cheapest, add 
+    Score: broccoli, side, extra, pay, charg, expens, bill 
+Topic 5 Top Words:
+    Highest Prob: good, menu, set, lunch, choic, wine, valu 
+    FREX: menu, choic, set, good, lunch, select, list 
+    Lift: daili, list, fix, adequ, choic, menu, afternoon 
+    Score: good, daili, menu, set, choic, lunch, wine 
+Topic 6 Top Words:
+    Highest Prob: greek, alway, tri, year, review, time, best 
+    FREX: review, never, read, year, now, tri, live
+    Lift: googl, advisor, review, tripadvisor, cyprus, taverna, greec
+    Score: googl, greek, review, alway, year, nawab, tri
+Topic 7 Top Words:
+    Highest Prob: birthday, happi, anniversari, husband, celebr, love, surpris
+    FREX: happi, anniversari, hot, music, boyfriend, plate, notch 
+    Lift: wall, sang, pipe, background, notch, play, happi
+    Score: wall, birthday, happi, anniversari, plate, hot, celebr
+Topic 8 Top Words:
+    Highest Prob: meal, voucher, cours, cocktail, experi, virgin, gift
+    FREX: shard, virgin, part, gift, voucher, bought, given
+    Lift: mail, ticket, entitl, shard, view, thame, letter
+    Score: voucher, mail, virgin, shard, gift, part, cours
+Topic 9 Top Words:
+    Highest Prob: food, servic, great, love, recommend, excel, atmospher 
+    FREX: atmospher, great, recommend, high, servic, fantast, love
+    Lift: okay, anyon, atmospher, environ, high, recommend, great
+    Score: okay, great, recommend, servic, food, atmospher, excel
+Topic 10 Top Words:
+    Highest Prob: restaur, expect, marco, find, locat, decor, white
+    FREX: street, white, liverpool, marco, pierr, station, clean 
+    Lift: dark, petticoat, liverpool, station, conveni, attract, road
+    Score: dark, restaur, marco, pierr, street, white, liverpool
+Topic 11 Top Words:
+    Highest Prob: visit, will, definit, back, first, time, food
+    FREX: will, return, back, definit, first, second, class
+    Lift: result, futur, shall, return, will, defiant, second 
+    Score: result, will, definit, back, visit, return, first
+Topic 12 Top Words:
+    Highest Prob: drink, work, new, one, serv, honest, bar
+    FREX: new, work, man, guy, bring, style, drink
+    Lift: middl, eve, stuff, underground, social, man, ill 
+    Score: middl, drink, new, work, bar, hard, honest
+Topic 13 Top Words:
+    Highest Prob: tabl, arriv, book, wait, ask, minut, greet
+    FREX: tabl, seat, arriv, earli, minut, greet, shown
+    Lift: spacious, coat, min, tabl, shown, seat, readi 
+    Score: tabl, spacious, arriv, book, wait, earli, minut
+Topic 14 Top Words:
+    Highest Prob: made, feel, welcom, special, make, treat, like
+    FREX: feel, made, special, occas, make, kind, treat
+    Lift: privat, brother, feel, dad, experienc, respect, occas 
+    Score: privat, made, feel, special, make, welcom, treat
+Topic 15 Top Words:
+    Highest Prob: experi, dine, warm, fault, welcom, couldnt, whole
+    FREX: dine, fault, whole, couldnt, warm, ambianc, thing
+    Lift: din, world, dine, whole, luxuri, fault, couldnt
+    Score: din, experi, dine, warm, whole, fault, couldnt 
+Topic 16 Top Words:
+    Highest Prob: amaz, best, brunch, incred, food, ever, super
+    FREX: brunch, bottomless, stephan, free, stefan, green, gave
+    Lift: gluten, bottomless, flow, brunch, stefan, pancak, stephan
+    Score: gluten, brunch, amaz, bottomless, stephan, best, scarlett 
+Topic 17 Top Words:
+    Highest Prob: even, just, tast, better, dish, fresh, full
+    FREX: full, flavour, vegan, better, wow, fresh, prepar
+    Lift: tomato, amrutha, pakora, loung, flavour, full, balanc
+    Score: tomato, better, fresh, flavour, full, vegan, dish
+Topic 18 Top Words:
+    Highest Prob: night, went, friend, portion, famili, last, dinner
+    FREX: night, meze, last, group, portion, mix, generous
+    Lift: six, mezz, sea, stelio, meze, octopus, eileen
+    Score: six, night, portion, last, famili, meze, mix
+Topic 19 Top Words:
+    Highest Prob: place, well, price, worth, everi, london, reason
+    FREX: everi, worth, well, place, total, gem, breakfast 
+    Lift: search, penni, english, cafe, central, gem, everi
+    Score: search, place, well, worth, everi, price, reason
+Topic 20 Top Words:
+    Highest Prob: food, servic, love, restaur, realli, meal, felt
+    FREX: food, felt, realli, love, servic, need, look
+    Lift: tire, felt, need, food, let, impress, also 
+    Score: tire, food, servic, felt, restaur, love, realli
