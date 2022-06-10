@@ -1,0 +1,9 @@
+# Excel and CSV Data
+*.xlsx
+*.csv
+
+# PDF
+*.pdf
+
+# LargeDataset
+Archive/LargeDataset/*
